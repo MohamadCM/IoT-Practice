@@ -1,7 +1,7 @@
 /*
  * MQTT Conection and Pub-Sub 
  * @author Mohamad ChamanMotlagh 9631018
- * @author Mohamad Jabbari Zadehgan 9631015
+Add MQTT implementation 
  */
 
 #include <ESP8266WiFi.h>
