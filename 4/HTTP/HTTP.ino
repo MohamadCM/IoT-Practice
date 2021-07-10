@@ -1,7 +1,6 @@
 /*
  * HTTP Conection and Client-Server 
  * @author Mohamad ChamanMotlagh 9631018
- * @author Mohamad Jabbari Zadehgan 9631015
  */
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
