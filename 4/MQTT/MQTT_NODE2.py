@@ -1,3 +1,8 @@
+"""
+    MQTT Node-2 Implementation
+    Author: Mohamad ChamanMotlagh   [9631018]
+    Author: Mohamad Jabbari Zadegan [9631015]
+"""
 from types import SimpleNamespace
 
 import paho.mqtt.client as mqtt
