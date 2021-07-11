@@ -21,7 +21,7 @@
 
 //Use a WiFi
 #define wifi_ssid "Irancell-TD-GP2101PLUS-3209"
-#define wifi_password "mocm1999"
+#define wifi_password "12345678"
 
 #define interval 2000 // CoAP intervals
 IPAddress ip(192, 168, 1, 114);
