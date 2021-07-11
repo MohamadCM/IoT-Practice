@@ -1,3 +1,7 @@
+"""
+    AMQP Node-2 Implementation
+    Author: Mohamad ChamanMotlagh   [9631018]
+"""
 from types import SimpleNamespace
 
 import pika
