@@ -1,0 +1,36 @@
+[
+  {
+    "ID": "sensor-0",
+    "mode": "true",
+    "address": "192.168.1.114:3000",
+    "entry_code": "temperature-sensor",
+    "users": [
+      "Mohamad2",
+      "Mohamad"
+    ],
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6InNlbnNvci0wIiwiaWF0IjoxNjI2MTAyNDk5fQ.xmuJw4In1aVVyj_Yo6XRW40Y9mP9UnHWbjCRZk0AfwE",
+    "last_access": 1626103560516
+  },
+  {
+    "entry_code": "light-sensor",
+    "ID": "sensor-1",
+    "address": "192.168.1.114:3000",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6InNlbnNvci0xIiwiaWF0IjoxNjI2MDc5MzE0fQ.VNTxKZAGaUtx_2c1Mc4o_BYh5k3XvX5eRDTxcl0DEU0",
+    "last_access": 1626079332962,
+    "users": [
+      "Mohamad",
+      "Mohamad2"
+    ]
+  },
+  {
+    "entry_code": "fan",
+    "ID": "actuator-0",
+    "address": "http://localhost:3005/",
+    "last_access": 1626104516799,
+    "users": [
+      "Mohamad",
+      "Mohamad2"
+    ],
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6ImFjdHVhdG9yLTAiLCJpYXQiOjE2MjYxMDQ1MTZ9.j-vTGcWFOzYr80PX6UcWvRDrTmL2yORKfggHY7mfiPc"
+  }
+]

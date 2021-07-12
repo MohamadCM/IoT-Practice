@@ -1,0 +1,6 @@
+{
+  "sensor-0": "http://localhost:3000/",
+  "sensor-1": "http://localhost:3001/",
+  "actuator-0": "http://localhost:3005/",
+  "actuator-1": "http://localhost:3006/"
+}
