@@ -119,7 +119,7 @@ export default {
   data: () => ({
     mainServer: "http://localhost:8000",
     localServerAddress: "http://localhost:5000",
-    loggedIn: true,
+    loggedIn: false,
     userAccessName: undefined,
     temp: undefined,
     light: undefined,
